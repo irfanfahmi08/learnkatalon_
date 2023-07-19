@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IP01 - User want to click btn add to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5ed51d9-b9c8-4a1c-83de-fd7d65c89b1d</testCaseGuid>
+</TestCaseEntity>

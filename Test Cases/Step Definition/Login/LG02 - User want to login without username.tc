@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG02 - User want to login without username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99d919d5-0838-42c5-ad39-383cf55708a2</testCaseGuid>
+</TestCaseEntity>
